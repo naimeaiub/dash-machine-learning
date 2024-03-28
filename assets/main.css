@@ -1,0 +1,49 @@
+/* Cor do background geral do dashboard */
+body {
+    background-color: #242729; /* Exemplo: cinza claro */
+    font-family: 'Segoe UI', sans-serif; /* Exemplo: fonte Segoe UI */
+    color: #e09cdb;
+}
+
+/* Formatação do título */
+.custom-title {
+    color: #e09cdb; /* Exemplo: azul */
+    font-weight: bold; /* Negrito */
+}
+
+/* Formatação do subtítulo */
+.custom-subtitle {
+    color: #e09cdb; /* Exemplo: cinza */
+    font-style: italic; /* Itálico */
+}
+
+/* Cor das opções do select */
+.custom-select option {
+    background-color: transparent; /* Exemplo: cinza claro para o fundo */
+    color: #e09cdb; /* Exemplo: cinza escuro para a fonte */
+}
+
+/* Cor do input e alterações de estilo */
+.custom-input {
+    color: #e09cdb; /* Exemplo: azul para a fonte */
+    font-weight: bold; /* Negrito */
+    background-color: transparent; /* Exemplo: fundo transparente */
+
+}
+
+/* Cor do select e alterações de estilo */
+.custom-select {
+    color: #e09cdb; /* Azul escuro para a fonte */
+    font-weight: bold; /* Negrito */
+    background-color: transparent; /* Fundo transparente */
+}
+
+.custom-button {
+    color: #ffffff; /* Azul escuro para a fonte */
+    font-weight: bold; /* Negrito */
+    background-color: #e09cdb; /* Fundo transparente */
+}
+
+.custom-select .custom-select-content {
+    color: #ffffff !important; /* Cor do texto branco */
+}
