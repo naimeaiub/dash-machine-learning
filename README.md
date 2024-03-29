@@ -12,10 +12,12 @@
   - *Página de Formulário para predição de doenças cardíacas.*
 
 ### <span style="color:#FF1493">Página de Gráficos para visualização do dataset</span>
-  ![Página de Gráficos](imagem/graph.png)
+ ![Página de Gráficos](https://github.com/naimeaiub/dash-machine-learning/assets/111865299/1ad5d7ea-efd5-48b2-92e6-09061dfcc4bd)
+
 
 ### <span style="color:#FF1493">Página de Formulário para predição de doenças cardíacas</span>
-  ![Página de Formulário](imagem/form.png)
+  ![Página de Formulário](https://github.com/naimeaiub/dash-machine-learning/assets/111865299/11836cd5-d24f-4a14-ad0a-e6c959749a23)
+
 
 ### <span style="color:#FF1493">Bibliotecas e Plataformas utilizadas:</span>
   - *Pandas;*
